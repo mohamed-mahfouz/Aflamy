@@ -1,0 +1,129 @@
+﻿@model dynamic
+@{
+    ViewBag.Title = "New";
+}
+
+<h2>New Rental</h2>
+<form id="newRental">
+    <div class="form-group">
+        <label>Customer</label>
+        <div class="tt-container">
+            <input id="customer" required data-rule-VaildCustomer="true" type="text" value="" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>Movie</label>
+        <div class="tt-container">
+            <input id="movie"  data-rule-LimitAddedMovie="true" type="text" value="" class="form-control" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 col-sm-4">
+            <ul id="movies" class="list-group"></ul>
+        </div>
+    </div>
+
+    <button class="btn btn-primary">Submit</button>
+</form>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        $(document).ready(function () {
+
+            var vm = {
+                movieId: [] @* Empty array so we pass to it movie ids *@
+            };
+
+            var customers = new Bloodhound({ @* Bloodhound is class include all logic *@
+                datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'), @* datumTokenzier is a method  *@
+                queryTokenizer: Bloodhound.tokenizers.whitespace,
+                remote: {
+                    url: '/api/customers?query=%QUERY', @* we send paramter called qurey *@
+                    wildcard: '%QUERY' @* it's what user is type is assign to query variable *@
+                }
+            });
+
+            $('#customer').typeahead({
+                minLength: 3, @* it's mean at least 3 charachters to show result  *@
+                highlight: true @* it's mean these 3 caharchters be bold *@
+
+            }, {
+                name: 'customers',
+                display: 'name',
+                source: customers
+            }).on("typeahead:select", function (e, customer) {
+                vm.customerId = customer.id  @* we put customerId in vm to can send to server later *@
+            });
+
+            // Movie AutoComplete
+
+            var movies = new Bloodhound({ 
+                datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'), 
+                queryTokenizer: Bloodhound.tokenizers.whitespace,
+                remote: {
+                    url: '/api/movies?query=%QUERY', 
+                    wildcard: '%QUERY' 
+            }
+            });
+
+            $('#movie').typeahead({
+                minLength: 3,
+                highlight: true
+
+            }, {
+                name: 'movies',
+                display: 'name',
+                source: movies
+            }).on("typeahead:select", function (e, movie) {
+
+                $("#movies").append("<li class='list-group-item'>" + movie.name + "</li>");
+
+                $("#movie").typeahead("val", "");  @* This for clean up movie automatic after selected from input filed *@
+
+                vm.movieId.push(movie.id); @* we push movieIds to can send to server later  *@
+            });
+
+            $.validator.addMethod("LimitAddedMovie", function () {
+                return vm.movieId.length > 0;
+            }, "Please select at least one movie");
+
+            $.validator.addMethod("VaildCustomer", function () {
+                return vm.customerId && vm.customerId !== 0;
+            }, "Please select vaild customer.");
+
+            var vailditor = $("#newRental").validate({
+                submitHandler: function () {
+                    $.ajax({
+                        url: "/api/newRentals",
+                        method: "post",
+                        data: vm
+                    })
+                    .done(function () {
+                        toastr.success("Rentals is successfully recorded.");
+
+                        $("#customer").typeahead("val", "");
+                        $("#movie").typeahead("val", "");
+                        $("#movies").empty();
+                        vm = { movieId: [] };
+
+                        vailditor.resetForm();
+                    })
+                    .fail(function () {
+                        toastr.error("Something unexpected happened.")
+                    });
+
+                    return false;
+                }
+            });
+
+        });
+    </script>
+    
+    
+    }
+

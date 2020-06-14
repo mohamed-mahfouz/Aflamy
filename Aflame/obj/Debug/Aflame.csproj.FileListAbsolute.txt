@@ -1,0 +1,219 @@
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\ApplicationInsights.config
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\csc.exe
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\vbc.exe
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\VBCSCompiler.exe
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Aflame.dll.config
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Aflame.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Aflame.pdb
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Antlr3.Runtime.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\EntityFramework.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\EntityFramework.SqlServer.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.Web.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.ApplicationInsights.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Newtonsoft.Json.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Owin.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Helpers.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Mvc.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Optimization.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Razor.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.WebPages.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.WebPages.Razor.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\WebGrease.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.Web.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.ApplicationInsights.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Helpers.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Mvc.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Optimization.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.Razor.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.WebPages.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\System.Web.WebPages.Razor.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Antlr3.Runtime.pdb
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Newtonsoft.Json.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\EntityFramework.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\EntityFramework.SqlServer.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.pdb
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.InitialModel.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.csproj.GenerateResource.Cache
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddMembershipType.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.PopulateMemberShipTypes.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddNameToMemebershipType.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.unwantedColumnCleanup.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddBirthdateToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddaddressToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.unwantedColumnAddressCleanup.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddBDToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddMoviesTable.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddProertiesToMovies.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.Genre.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.PopulateGenre.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.ApplyAnnotationOnNameOfGenre.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\Aflame\Aflame\obj\Debug\Aflame.Migrations.ApplyAnnotationsOnNameAndGenreOfMovie.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\ApplicationInsights.config
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\csc.exe
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\vbc.exe
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\VBCSCompiler.exe
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Aflame.dll.config
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Aflame.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Aflame.pdb
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Antlr3.Runtime.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\EntityFramework.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\EntityFramework.SqlServer.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.Web.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.ApplicationInsights.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Newtonsoft.Json.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Owin.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Helpers.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Mvc.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Optimization.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Razor.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.WebPages.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.WebPages.Razor.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\WebGrease.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.Web.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.ApplicationInsights.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Helpers.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Mvc.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Optimization.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Razor.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.WebPages.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.WebPages.Razor.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Antlr3.Runtime.pdb
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Newtonsoft.Json.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\EntityFramework.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\EntityFramework.SqlServer.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.InitialModel.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddMembershipType.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.PopulateMemberShipTypes.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddNameToMemebershipType.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.unwantedColumnCleanup.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddBirthdateToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddaddressToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.unwantedColumnAddressCleanup.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddBDToCustomer.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddMoviesTable.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddProertiesToMovies.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.Genre.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.PopulateGenre.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.ApplyAnnotationOnNameOfGenre.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.ApplyAnnotationsOnNameAndGenreOfMovie.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.csproj.GenerateResource.Cache
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.pdb
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\AutoMapper.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\AutoMapper.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Net.Http.Formatting.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Http.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Http.WebHost.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Net.Http.Formatting.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Http.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\System.Web.Http.WebHost.xml
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.csprojResolveAssemblyReference.cache
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.SeedUsers.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Glimpse.Ado.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Glimpse.AspNet.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Glimpse.Core.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Glimpse.EF6.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\bin\Glimpse.Mvc5.dll
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddRental.resources
+C:\Users\infot\OneDrive\Desktop\c#\ASP.NET\New folder\Aflame\Aflame\obj\Debug\Aflame.Migrations.AddNumberAvailableToMovies.resources

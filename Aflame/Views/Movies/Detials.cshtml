@@ -1,0 +1,14 @@
+﻿@model Aflame.Models.Movie
+@{
+    ViewBag.Title = "Detials";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name</h2>
+<ul>
+    <li><span>Genre: </span>@Model.Genre.Category</li>
+    <li><span>Release Date: </span>@Model.ReleaseDate.ToLongDateString()</li>
+    <li><span>Data Added: </span>@Model.DateAdded.ToLongDateString()</li>
+    <li><span>Number in Stock: </span>@Model.NumberInStock</li>
+</ul>
+

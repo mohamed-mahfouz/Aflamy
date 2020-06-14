@@ -1,0 +1,53 @@
+﻿@model Aflame.ViewModels.CustomerFormViewModel
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <h2>@Model.Title</h2>
+    @*
+        BeginFrom Render as <form> tag To make close tag (</from>)
+        you just need wraped with @usign()
+    *@
+    @using (Html.BeginForm("Save", "Customers"))
+    {
+        @*
+            Here we need to follow special Markup to make form and
+                this markup is bootstrap understand
+        *@
+        @Html.ValidationSummary(true,"Please fix the following errors")
+        <div class="form-group">
+            @Html.LabelFor(m => m.Customer.Name)
+            @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" }) @*This like attribute <input class="..." *@
+            @Html.ValidationMessageFor(m => m.Customer.Name)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Customer.MembershipTypeId)
+            @Html.DropDownListFor(m => m.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "Select Membership Type", new { @class = "form-control" }) @*This like attribute <input class="..." *@
+            @Html.ValidationMessageFor(m => m.Customer.MembershipTypeId)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Customer.BD)
+            @Html.TextBoxFor(m => m.Customer.BD, "{0:d MMM yyyy}", new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Customer.BD)
+        </div>
+       
+        @*
+            This another Markup follow when u create Checkbox ...
+                it's based on bootstrap Markup form..
+        *@
+        <div class="checkbox">
+            <label>
+                @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNewsLetter) Subscribed to Newsletter?
+            </label>
+        </div>
+        @Html.HiddenFor(m => m.Customer.Id) @* why send id in form? supposed it's already sent as prameter in Save Action Method? 
+                                               no it's not sent becuse nothing in form to enter id.. and the reason we create this to check if customer is new or exist  *@
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-primary">Save</button>
+    }
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval") @* Here we enabled Clent-Side-Validation *@
+    }

@@ -1,0 +1,17 @@
+﻿@model Aflame.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name</h2>
+<ul>
+    <li><span>MembershipType:</span> @Model.MembershipType.Name</li>
+
+    @if (Model.BD.HasValue)
+    { 
+    <li><span>BrithDate: </span>@Model.BD.Value.ToShortDateString()</li>
+    }
+</ul>
+
